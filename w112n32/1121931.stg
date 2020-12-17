@@ -1,0 +1,8 @@
+OBJECT_BASE 1121931.btg
+OBJECT KRYN.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -111.182845 32.141441 728.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -111.179654 32.140369 730.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -111.180117 32.145629 725.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -111.162223 32.145022 731.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -111.167240 32.145538 729.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -111.177898 32.134363 736.0 0.00

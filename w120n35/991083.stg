@@ -1,0 +1,4 @@
+OBJECT_BASE 991083.btg
+OBJECT KDLO.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -119.236968 35.743795 94.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -119.239704 35.744179 94.1 0.00

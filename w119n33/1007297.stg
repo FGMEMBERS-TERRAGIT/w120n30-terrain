@@ -1,0 +1,6 @@
+OBJECT_BASE 1007297.btg
+OBJECT KNUC.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -118.602412 33.018488 22.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -118.575021 33.028122 42.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -118.585963 33.022697 46.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -118.587379 33.019982 47.9 0.00
